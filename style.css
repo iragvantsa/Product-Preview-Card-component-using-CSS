@@ -16,7 +16,7 @@ main {
 }
 .product-image {
   width: 50%;
-  background: url(images/image-product-desktop.jpg);
+  background: url(https://github.com/iragvantsa/Product-Preview-Card-component-using-CSS/blob/a35a97bd83b662858ef374c13f62706acbd9cb4a/images/image-product-desktop.jpg);
   background-size: cover;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
