@@ -29,7 +29,7 @@ main {
   padding: 30px;
   padding-bottom: 10px;
 }
-h3 {
+h2 {
   font-family: "Fraunces", serif;
   color: hsl(212, 21%, 14%);
   margin-right: 100px;
@@ -107,7 +107,7 @@ i {
   h1 {
     margin: 0;
   }
-  h3 {
+  h2 {
     margin-right: 0;
   }
   p {
