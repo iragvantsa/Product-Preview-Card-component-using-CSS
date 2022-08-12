@@ -16,7 +16,7 @@ main {
 }
 .product-image {
   width: 50%;
-  background: url(/..images/image-product-desktop.jpg);
+  background: url(/images/image-product-desktop.jpg);
   background-size: cover;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
